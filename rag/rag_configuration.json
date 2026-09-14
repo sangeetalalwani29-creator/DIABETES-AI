@@ -1,0 +1,9 @@
+{
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "chunk_size_words": 160,
+    "chunk_overlap_words": 35,
+    "retrieval_method": "Normalized embeddings with cosine similarity",
+    "number_of_sources": 7,
+    "number_of_chunks": 49,
+    "safety_scope": "Research prototype; not clinical diagnosis"
+}

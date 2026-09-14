@@ -1,0 +1,22 @@
+{
+    "model": "Stacking_Ensemble",
+    "threshold": 0.1271046703472573,
+    "features": [
+        "Age",
+        "BMI",
+        "GenHlth",
+        "HighBP",
+        "PhysHlth",
+        "MentHlth",
+        "HeartDiseaseorAttack",
+        "HighChol",
+        "DiffWalk",
+        "Education",
+        "Family_History_Diabetes",
+        "Income",
+        "PhysActivity",
+        "Stroke",
+        "Smoker"
+    ],
+    "threshold_method": "Maximum Youden J on validation set"
+}
